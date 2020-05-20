@@ -1,6 +1,5 @@
 Data = load('data_2.txt');
 
-
 plot(Data(:,1),Data(:,2));
 hold on
 plot(Data(:,1),Data(:,3), 'r');
